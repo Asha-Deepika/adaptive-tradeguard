@@ -1,4 +1,4 @@
-#  Adaptive TradeGuard
+# 🛡️ Adaptive TradeGuard
 
 ### AI-Based Autonomous Trading Risk & Permission System
 
